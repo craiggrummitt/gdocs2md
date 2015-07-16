@@ -1,12 +1,11 @@
 /*
 Usage: 
   Adding this script to your doc: 
-    - Tools > Script Manager > New
-    - Select "Blank Project", then paste this code in and save.
+    - Tools > Script Editor
+    - Paste this code in and save.
   Running the script:
-    - Tools > Script Manager
     - Select "ConvertToMarkdown" function.
-    - Click Run button.
+    - Click Run button. (First time, you will need to give authorization)
     - Converted doc will be mailed to you. Subject will be "[MARKDOWN_MAKER]...".
 */
 
